@@ -33,7 +33,7 @@
 모니터링 시각화 툴 Customization 프로젝트
 </h3>
 
-<section>Frontend Developer | 2024.04 ~ 2024.06</section>
+<h4>Frontend Developer | 2024.04 ~ 2024.06</h4>
 
 <div>
 <div>- 범용성을 가진 Grafana를 UI 개선, 성능 최적화를 통해 운영 서비스에 맞춤화한 프로젝트.
@@ -57,7 +57,7 @@
 영어 회화 매칭 프로젝트
 </h3>
 
-<section>Frontend Developer | 2023.08 ~ 2023.11</section>
+<h4>Frontend Developer | 2023.08 ~ 2023.11</h4>
 
 <div>
 <div>- 실시간 투표 UI와 컨텐츠 동기화를 구현하여 음성 통화의 몰입도를 증대.
@@ -80,7 +80,7 @@
 HTTP 1.1 웹 서버 구현 프로젝트
 </h3>
 
-<section>System Software Engineer | 2023.03 - 2023.05</section>
+<h4>System Software Engineer | 2023.03 - 2023.05</h4>
 
 <div>
 <div>- Javascript 처럼 이벤트 기반으로 I/O 작업을 처리하는 Nginx-like 웹 서버 구현.
