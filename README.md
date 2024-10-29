@@ -28,72 +28,72 @@
   📂 PROJECTS
 </h2>
 
-<details>
-<summary>
-AWS EKS 모니터링 프로젝트 (2024.04 ~ 2024.06)
-</summary>
 
-<section>Frontend Developer, Operator</section>
+<h3>
+모니터링 시각화 툴 Customization 프로젝트
+</h3>
+
+<section>Frontend Developer | 2024.04 ~ 2024.06</section>
 
 <div>
-<div>- 고객 / 관리자에게 Kubernetes 리소스 시각화 및 알림 서비스를 제공
+<div>- 범용성을 가진 Grafana를 UI 개선, 성능 최적화를 통해 운영 서비스에 맞춤화한 프로젝트.
 </div>
-<div>- 오픈 소스 Grafana를 수정하여 개발 기간을 단축하고 안정성 확보
+<div>- 대시보드 선택 기능을 추가하여 페이지 전환을 2번에서 1번으로 감축.
 </div>
-<div>- Redux Action Dispatch 프로세스를 분석하여 신규 UI의 상태 관리에 재사용
+<div>- 상태 관리를 메커니즘을 재사용한 Chip UI를 도입하여 가시성 100% 확보.
 </div>
-<div>- 커스텀 훅과 Query Parameter 모듈을 추가하여 재사용성과 가독성 개선
+<div>- 사용하지 않는 페이지와 리소스를 제거하여 기존 대비 웹 페이지 크기 15%(6.0 -> 5.1MB) 감소.
 </div>
-<div>- Frontend, Backend 빌드 분리를 통해 CI 빌드 시간을 30% 단축
+<div>- 대시보드 폴더 구조를 네비게이션 바에 적용하여 핵심 기능(대시보드) 접근성 강화.
+</div>
+<div>- <i>React, Typescript, Redux, Emotion/css, Grafana, PromQL, Docker</i>
 </div>
 <div>
-</details>
+
 
 <br/>
-<details>
-<summary>
-영어 회화 매칭 플랫폼 프로젝트 (2023.08 ~ 2023.11)
-</summary>
 
-<section>Frontend Developer</section>
+<h3>
+영어 회화 매칭 프로젝트
+</h3>
+
+<section>Frontend Developer | 2023.08 ~ 2023.11</section>
 
 <div>
-<div>- 컨텐츠(토픽, 게임)를 제공하는 2~4인 랜덤 음성 통화 플랫폼
+<div>- 실시간 투표 UI와 컨텐츠 동기화를 구현하여 음성 통화의 몰입도를 증대.
 </div>
-<div>- 음성 통화 연결 알고리즘을 구현하여 그룹 통화(4인)에 적용
+<div>- 모바일 뷰 디자인과 manifest.json(PWA)을 사용해 모바일 기기에서 접근성 확보.
 </div>
-<div>- Private IP 유저의 통화 연결 문제를 TURN, STUN 서버를 이용하여 해결
+<div>- WebRTC 연결 알고리즘을 최적화하여 불필요한 시간 복잡도 O(n^2)를 제거.
 </div>
-<div>- Socket을 신호 서버, 컨텐츠 투표, 통화 종료 처리 등 다양한 목적으로 재활용
+<div>- 사설 네트워크 사용자의 연결 실패를 트러블 슈팅 및 해외 네트워크로 테스트 확장.
 </div>
-<div>- 모바일 뷰 + Progressive Web App을 채택하여 네이티브 앱 개발 비용 절감
+<div>- JWT를 사용한 OAuth 2.0 로그인과 로그인 유지 기능 구현.
+</div>
+  <div>- <i>React, Typescript, Context API, TailwindCSS, Vite, WebRTC, Socket.io</i>
 </div>
 <div>
-</details>
+
 
 <br/>
-<details>
-<summary>
-학습 관리 시스템(LMS) 프로젝트 (2022.01 ~ 2022.11)
-</summary>
+<h3>
+HTTP 1.1 웹 서버 구현 프로젝트
+</h3>
 
-<section>Frontend Developer</section>
+<section>System Software Engineer | 2023.03 - 2023.05</section>
 
 <div>
-<div>- 출결, 오늘 할 일 관리 등 학습 관리 자동화 웹 서비스
+<div>- Javascript 처럼 이벤트 기반으로 I/O 작업을 처리하는 Nginx-like 웹 서버 구현.
 </div>
-<div>- 약 6개월 동안 평균 20명의 MAU
+<div>- Select에서 Kqueue로 전환하여 최대 클라이언트 연결 수 10배 이상 증가.
 </div>
-<div>- Pull Request 이전 코드 리뷰와 피드백 반영을 통해 협업 능력을 강화
+<div>- 부하 테스트를 통해 소켓 고갈 문제를 발견하고, 서버 close 방식으로 수정하여 가용성 99.50% 달성.
 </div>
-<div>- 팀원들이 겪는 문제를 해결하기 위해 해결 방법(링크)을 제안
+<div>- Trywait 락을 활용해 첫 프로세스만 진입하도록 하여 멀티 프로세스의 Thundering herd 문제 해결.
 </div>
-<div>- 오늘 할 일 수정 등 사용자 요구 사항을 수집해 개발 과정에 반영
+  </div>
+  <div>- <i>C++, STL, UNIX Socket API, TCP, HTTP</i>
 </div>
-<div>- 컴포넌트, Backend API 리팩토링을 진행하면서 코드 품질을 향상
-</div>
-<div>
-</details>
 
 <h2>
 📈 STATS
