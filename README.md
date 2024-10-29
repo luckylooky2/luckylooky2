@@ -99,6 +99,7 @@ HTTP 1.1 웹 서버 구현 프로젝트
 📈 STATS
 </h2>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckylooky2)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckylooky2)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckylooky2)](https://github.com/anuraghazra/github-readme-stats)
